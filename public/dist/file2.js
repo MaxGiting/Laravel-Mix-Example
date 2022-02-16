@@ -1,0 +1,1 @@
+alert("I'm file 2");
